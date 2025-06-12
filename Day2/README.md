@@ -1,1 +1,1 @@
-##This is the folder for Day2
+This is the folder for Day2
