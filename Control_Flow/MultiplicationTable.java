@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class MultiplicationTable {
     public static void main(String[] args) {
         // Create Scanner object to read input
-        Scanner scanner = new Scanner(System.in);
+        Scanner  scanner = new Scanner(System.in);
 
         // Prompt user to enter the number
         System.out.print("Enter a number: ");
